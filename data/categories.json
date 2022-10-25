@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "Front-End Developer",
+      "duration": "6 months",
+      "description": "Learn how to master the cool side of Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Full-Stack Developer",
+      "duration": "6 months",
+      "description": "Learn how to master the cool side of Web Development"
+    },
+    {
+      "id": "03",
+      "name": "MERN-Stack Developer",
+      "duration": "6 months",
+      "description": "Become the unicorn of the web development!"
+    },
+    {
+      "id": "04",
+      "name": "Only For React",
+      "duration": "3 months",
+      "description": "Build powerful, fast, user-friendly and reactive web apps"
+    },
+    {
+      "id": "05",
+      "name": "Only For .NET Developer",
+      "duration": "12 months",
+      "description": "Build real world application using ASP.NET and ASP.NET Core Identity"
+    },
+    {
+      "id": "06",
+      "name": "Only For Android",
+      "duration": "12 months",
+      "description": "Learn Android App Development from Zero to Hero"
+    }    
+  ]
