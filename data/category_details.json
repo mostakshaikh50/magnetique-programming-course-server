@@ -11,8 +11,7 @@
       "title": "Front-End Developer",
       "languages": {
         "name": "HTML_CSS_JavaScript_Jquery_React",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "published_date": "2022-08-24 17:27:34"       
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/05/front-end-developer-skills.jpg",
@@ -24,18 +23,17 @@
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "03",
+      "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Full-Stack Developer",
       "languages": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "Python_React_MongoDB_Angular_PHP_Javascript",
+        "published_date": "2022-08-24 17:27:34"        
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+      "details": "It refers to the development of both front end(client side) and back end(server side) portions of web application. Full stack web developers have the ability to design complete web applications and websites. They work on the frontend, backend, database and debugging of web applications or websites. It is responsible for managing the database through queries and APIs by client-side commands. This type of website mainly consists of three parts front end, back end, and database."
     },
 
     {
@@ -44,18 +42,17 @@
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "03",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+      "title": "MERN-Stack Developer",
       "languages": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "MongoDB_Express_React_Node",
+        "published_date": "2022-08-30 16:38:45"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/f09d3213adef464abb625babd21cabf1/ee76b7e4f1654ce1919ee7701a57ab0e",
+      "details": "A MERN stack developer is an expert in MongoDB, Express, React and Node. They are proficient in JavaScript and use HTML, CSS and JavaScript to handle front-end operations and JavaScript with Node. js to handle back-end operations.Other variants include MEVN (MongoDB, Express, Vue, Node), and really any front-end JavaScript framework can work."
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -63,17 +60,16 @@
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "02",
+      "category_id": "04",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+      "title": "Only For React",
       "languages": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "HTML_CSS_React_Bootstrap",
+        "published_date": "2022-08-30 16:38:45"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/f09d3213adef464abb625babd21cabf1/ee76b7e4f1654ce1919ee7701a57ab0e",
       "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
     },
 
@@ -83,18 +79,17 @@
         "is_todays_pick": false,
         "is_trending": false
       },
-      "category_id": "03",
+      "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+      "title": "Only For .NET Developer",
       "languages": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "DotNet_MSSQL_Javascript",
+        "published_date": "2022-08-24 23:15:00"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "image_url": "https://www.aegissofttech.com/articles/images/reasons-for-hiring-dot-net-developers.jpg",
+      "details": "A net developer is responsible for producing code using . net languages such as C# and VB. Net developers create applications from scratch, configure existing systems and provide user support. Also, net developers are able to write functional code with a sharp eye for spotting defects."
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -102,17 +97,16 @@
         "is_todays_pick": false,
         "is_trending": false
       },
-      "category_id": "01",
+      "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+      "title": "Only For Android",
       "languages": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "Android_Java_AndroidSDK",
+        "published_date": "2022-08-24 23:15:00"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "image_url": "https://learntocodewith.me/wp-content/uploads/2019/02/Skills-of-Android-Developers-1024x640.png",
+      "details": "An Android Developer is a software developer who specializes in designing applications for android operating systems. Android is an operating system that is a hot cake in the market. Developing applications for android is on the boom, so the demand for an android developer is very high. According to the Bureau of Labor Statistics, the demand for software developers, which includes Android developers, is expected to rise by 17 per cent through 2024. Android and iOS developers are almost the same."
     }
 ]
