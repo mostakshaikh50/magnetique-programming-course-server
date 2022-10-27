@@ -7,7 +7,7 @@
       },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "price": 150,
       "title": "Front-End Developer",
       "languages": {
         "name": "HTML_CSS_JavaScript_Jquery_React",
@@ -25,7 +25,7 @@
       },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "price": 500,
       "title": "Full-Stack Developer",
       "languages": {
         "name": "Python_React_MongoDB_Angular_PHP_Javascript",
@@ -44,7 +44,7 @@
       },
       "category_id": "03",
       "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
+      "price": 200,
       "title": "MERN-Stack Developer",
       "languages": {
         "name": "MongoDB_Express_React_Node",
@@ -62,14 +62,14 @@
       },
       "category_id": "04",
       "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
+      "price": 100,
       "title": "Only For React",
       "languages": {
         "name": "HTML_CSS_React_Bootstrap",
         "published_date": "2022-08-30 16:38:45"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/f09d3213adef464abb625babd21cabf1/ee76b7e4f1654ce1919ee7701a57ab0e",
+      "image_url": "https://devskiller.com/wp-content/uploads/2020/11/screen-react-devs.jpg",
       "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
     },
 
@@ -81,10 +81,10 @@
       },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
+      "price": 250,
       "title": "Only For .NET Developer",
       "languages": {
-        "name": "DotNet_MSSQL_Javascript",
+        "name": "DotNet_MSSQL_Javascript_MVC",
         "published_date": "2022-08-24 23:15:00"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
@@ -99,10 +99,10 @@
       },
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
+      "price": 350,
       "title": "Only For Android",
       "languages": {
-        "name": "Android_Java_AndroidSDK",
+        "name": "Android_Java_AndroidSDK_Ionic",
         "published_date": "2022-08-24 23:15:00"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",

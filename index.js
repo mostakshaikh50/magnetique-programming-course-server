@@ -32,5 +32,5 @@ app.get('/coursedetails/:id', (req, res) =>{
 
 
 app.listen(port, () =>{
-    console.log('Magnetique Courses Server running on port', port);
+    console.log('Courses Server running on port', port);
 })
